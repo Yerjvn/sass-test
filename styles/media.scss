@@ -1,0 +1,54 @@
+@media screen and (max-width: 1200px) {
+
+  .home {
+    visibility: hidden;
+  }
+
+  .hamburger-menu {
+    visibility:visible;
+    margin-top: 50px;
+  }
+
+  .container {
+    max-width: 970px;
+  }
+  .header {
+    display: flex;
+    flex-direction: column;
+  }
+  .top_side {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .main {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .desktop1 {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .desktop2 {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .bot_side {
+    display: flex;
+    flex-direction: column;
+    
+  }
+  .customers {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .companies {
+    display: flex;
+    flex-direction: column;
+  }
+  
+} 
